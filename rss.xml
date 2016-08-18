@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jure Vraničar]]></title>
+        <description><![CDATA[Jure Vraničar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 18:16:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Psihoterapija Štrukelj]]></title>
+            <description><![CDATA[<article><h1>Psihoterapija Štrukelj</h1><p>Psihoanalitična psihoterapija za pomoč v stiski ali za izboljšanje kvalitete življenja. Ljubljana. Dobrodošli!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b6a957a3c66be1700fcbd13292dd3999/noop.jpg?input=http%3A%2F%2Fwww.psihoterapija-strukelj.si%2Fwp-content%2Fuploads%2F2013%2F03%2FLavender-Sunrise-940x350.jpg"></article>]]></description>
+            <link>http://www.psihoterapija-strukelj.si/</link>
+            <guid isPermaLink="false">d7012824-5097-4537-8150-ea9d7db69e8b</guid>
+            <pubDate>Thu, 18 Aug 2016 18:16:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
