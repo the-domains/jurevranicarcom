@@ -1,4 +1,3 @@
-layout_spectrum: 0.8176426121499389
 typography_spectrum: 0.18490494904108346
 color:
   brandStrength: 0.8051232150755823
@@ -11,4 +10,6 @@ color:
     - '#F39EB5'
     - '#081028'
     - '#F0CEB7'
+layout_spectrum: 0.8176426121499389
 name: jurevranicar.com
+description: psihoterapevt
