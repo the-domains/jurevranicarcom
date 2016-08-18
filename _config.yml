@@ -1,0 +1,14 @@
+layout_spectrum: 0.8176426121499389
+typography_spectrum: 0.18490494904108346
+color:
+  brandStrength: 0.8051232150755823
+  lightness: 0.2697323220781982
+  saturation: 0.44645418343134224
+  rhythmicContrast: 0.4171624139416963
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: jurevranicar.com
