@@ -1,8 +1,19 @@
-typography_spectrum: 0.18490494904108346
+title: Jure Vraničar
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4464541834313422
   brandStrength: 0.8051232150755823
-  lightness: 0.2697323220781982
-  saturation: 0.44645418343134224
   rhythmicContrast: 0.4171624139416963
   brandColors:
     - '#A7304F'
@@ -10,7 +21,8 @@ color:
     - '#F39EB5'
     - '#081028'
     - '#F0CEB7'
-layout_spectrum: 0.8176426121499389
-name: jurevranicar.com
-title: Jure Vraničar
+  lightness: 0.2697323220781982
+typography_spectrum: 0.1849049490410835
 description: psihoterapevt
+layout_spectrum: 1
+name: jurevranicar.com
